@@ -156,7 +156,6 @@ A set of practices that combines software development (Dev) and IT operations (O
         * [Prometheus](https://prometheus.io/) - A monitoring toolkit designed to observe metrics and performance in cloud-native environments.
     * **ELK Stack (Elasticsearch, Logstash, Kibana)**
         * [ELK Stack](https://www.elastic.co/elastic-stack) - A set of tools for collecting, processing, and visualizing logs and metrics.
-
 ---
 
 ### License
